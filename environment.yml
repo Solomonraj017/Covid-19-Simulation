@@ -1,0 +1,17 @@
+name: sur-dsl2020-skeleton
+channels:
+- defaults
+dependencies:
+- python>=3.8
+- jupyter
+- matplotlib
+- pandas
+- numpy
+- scikit-learn
+- seaborn
+- tqdm
+- wget
+- plotly 
+- pip>=20.0
+- pip:
+  - kaggle
